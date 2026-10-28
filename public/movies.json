@@ -1,0 +1,49 @@
+[
+  {
+  "id": 1,
+  "titulo": "Viaje a la Luna",
+  "sinopsis": "Le Voyage dans la Lune (titulada Viaje a la Luna en español) (A Trip to the Moon en inglés) es una película francesa de 1902, en blanco y negro, muda y de ciencia ficción dirigida por Georges Méliès. El guion, escrito por el director y por su hermano mayor Gaston Méliès, inspirada en una amplia variedad de fuentes entre las que destacan De la Tierra a la Luna, de Julio Verne, y Los primeros hombres en la Luna, de H. G. Wells. La película dura 14 minutos con 12 segundos si se proyecta a una velocidad de 16 fotogramas por segundo, y algo más de ocho proyectada a 25 f/s. Narra la aventura de un grupo de astrónomos que viaja a la Luna en una cápsula impulsada por cañones, explora la superficie del satélite, escapa de un grupo subterráneo de selenitas (habitantes lunares) y regresa a la Tierra con un selenita cautivo.",
+  "anio": 1902,
+  "categoria": "Ciencia ficción",
+  "director": "Georges Méliès",
+  "duracion": "14 min",
+  "video": "/videos/Viaje_a_la_Luna_1902.mp4",
+  "poster": "/posters/Viaje_a_La_Luna.jpg",
+  "banner": "/banners/nosfaratubanner.jpg"
+},
+  {
+    "id": 2,
+    "titulo": "El Maquinista de la General",
+    "sinopsis": "Un maquinista persigue a los ladrones de su locomotora durante la Guerra Civil estadounidense.",
+    "anio": 1926,
+    "categoria": "Comedia",
+    "director": "Buster Keaton",
+    "duracion": "78 min",
+    "video": "/videos/El_maquinista_de_la_general.mp4",
+    "poster": "/posters/maquinista_de_la_general.jpg"
+  },
+  {
+    "id": 3,
+    "titulo": "Nosferatu",
+    "sinopsis": "El conde Orlok viaja a Wisborg y siembra el terror. Clásico del expresionismo alemán.",
+    "anio": 1922,
+    "categoria": "Terror",
+    "director": "F. W. Murnau",
+    "duracion": "94 min",
+    "video": "/videos/nosferatu_pelicula.mp4",
+    "poster": "/posters/nosferatu.jpg",
+    "banner": "/banners/nosfaratubanner.jpg"
+  },
+
+{
+  "id": 4,
+  "titulo": "Nazi Concentration Camps",
+  "sinopsis": "Retrato de la vida de una familia inuit en el Ártico canadiense.",
+  "anio": 1922,
+  "categoria": "Documentales",
+  "director": "Robert J. Flaherty",
+  "duracion": "79 min",
+  "video": "/videos/Nazi_Concentration_Camps.mp4",
+  "poster": "/posters/Nazi_Concentration_Camps.jpg"
+}
+]
